@@ -20,7 +20,6 @@ export default function CreationCard(props) {
           style={{
             marginTop: "80%",
             padding: "10px",
-
             bold: "800",
           }}
         >
